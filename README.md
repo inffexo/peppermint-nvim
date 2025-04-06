@@ -5,7 +5,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim  
 )  
 home/user/.config/nwim/my_files    
-delete plugins floder     
+delete plugin floder     
 in nwim:  
 :PlugInstall  
 reboot nwim  
